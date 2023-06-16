@@ -1,5 +1,6 @@
-# 目录
+# Table of contents
 
+* [README](README.md)
 * [vim 从嫌弃到依赖（0）——概述](0.md)
 * [vim从嫌弃到依赖（1）——安装和定位vimrc](1.md)
 * [vim 从嫌弃到依赖（2）——vim 模式](2.md)
